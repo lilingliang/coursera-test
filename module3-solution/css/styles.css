@@ -1,0 +1,32 @@
+* {
+	box-sizing: border-box;
+}
+#header-nav {
+	border-radius: 0px;
+	margin: 0px;
+}
+
+.navbar-brand a {
+	position: absolute;;
+	top:-13px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+	color: #565050; 
+}
+
+#nav-list {
+	text-align: center;
+}
+#nav-list a:hover{
+	background-color: #939393;
+	color: #ffffff;
+}
+
+#maintext{
+	background-color: #efeded;
+	box-shadow: 2px 2px 2px #aaa9a9;
+}
